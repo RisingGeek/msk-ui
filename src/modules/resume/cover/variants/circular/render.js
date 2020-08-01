@@ -10,7 +10,7 @@ const useStyles = (theme) => ({
   },
   info: {
     textAlign: 'center',
-    backgroundColor: 'rgb(75, 0, 86)',
+    backgroundColor: theme.value.color,
     color: 'white',
     paddingTop: '50px',
     paddingBottom: '13px'
