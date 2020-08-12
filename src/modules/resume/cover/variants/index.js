@@ -6,6 +6,8 @@ import Modern from './modern/index.js';
 import MultiComponent from './multiComponent/index.js';
 import Enigma from './Enigma/index.js';
 import Circular from './circular/index';
+import Square from './square/index.js';
+import Frame from './frame/index';
 
 export default {
   Basic,
@@ -15,5 +17,7 @@ export default {
   Ribbon,
   Modern,
   MultiComponent,
-  Circular
+  Circular,
+  Square,
+  Frame
 };
